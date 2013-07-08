@@ -1,0 +1,12 @@
+div.logo { 
+	text-align: center;
+	vertical-align: bottom;
+
+}
+div.logo h1{
+	vertical-align: bottom;
+}
+div.logo img{
+	width: 150px ;
+	height: 150px;
+}
